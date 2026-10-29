@@ -107,8 +107,6 @@ I enjoy turning research ideas and new AI tech into practical, reliable software
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DevinSH436&theme=tokyonight" alt="Languages by repo" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DevinSH436&theme=tokyonight" alt="Most committed languages" />
 
-<img src="https://streak-stats.demolab.com?user=DevinSH436&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-
 </div>
 
 ---
