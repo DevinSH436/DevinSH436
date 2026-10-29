@@ -99,16 +99,6 @@ I enjoy turning research ideas and new AI tech into practical, reliable software
 | [**AI Quant Trading Platform**](https://github.com/DevinSH436/stock_ai_project) | ML signals, backtesting and paper trading | Python · scikit-learn · Flask · PostgreSQL |
 | [**Telegram Research Assistant**](https://github.com/DevinSH436/Telegram-chatbot-using-n8n) | Multi-agent Telegram bot with web search and memory | n8n · Gemini · OpenAI · SerpAPI |
 
-## 📊 GitHub Stats:
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DevinSH436&theme=tokyonight" alt="GitHub stats" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DevinSH436&theme=tokyonight" alt="Languages by repo" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DevinSH436&theme=tokyonight" alt="Most committed languages" />
-
-</div>
-
 ---
 
 <div align="center"><i>Open to AI/ML engineering, Generative AI and research opportunities. Let's connect!</i></div>
