@@ -103,8 +103,9 @@ I enjoy turning research ideas and new AI tech into practical, reliable software
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=DevinSH436&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevinSH436&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DevinSH436&theme=tokyonight" alt="GitHub stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DevinSH436&theme=tokyonight" alt="Languages by repo" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DevinSH436&theme=tokyonight" alt="Most committed languages" />
 
 <img src="https://streak-stats.demolab.com?user=DevinSH436&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
