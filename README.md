@@ -91,13 +91,13 @@ I enjoy turning research ideas and new AI tech into practical, reliable software
 
 ## 🚀 Featured Projects:
 
-| Project | What it is | Built with |
-|---|---|---|
-| [**Grimoire**](https://github.com/DevinSH436/grimoire) | AniList-style tracker for anime, manga, manhwa & light novels: live AniList catalog, AI note summaries, MCP server | FastAPI · React · TypeScript · SQLite · Ollama · MCP |
-| [**FaceBio**](https://github.com/DevinSH436/FaceBio) | Face-recognition attendance system with a chatbot for querying attendance | Python · OpenCV · face_recognition · Streamlit · LangChain · Ollama |
-| [**AI Weather Agent**](https://github.com/DevinSH436/AI-based-Weather-Agent) | Daily personalised weather emails written by Gemini, orchestrated with n8n | FastAPI · PostgreSQL · n8n · Gemini · Gmail API |
-| [**AI Quant Trading Platform**](https://github.com/DevinSH436/stock_ai_project) | ML signals, backtesting and paper trading | Python · scikit-learn · Flask · PostgreSQL |
-| [**Telegram Research Assistant**](https://github.com/DevinSH436/Telegram-chatbot-using-n8n) | Multi-agent Telegram bot with web search and memory | n8n · Gemini · OpenAI · SerpAPI |
+| Project | What it is | Built with | What I learned |
+|---|---|---|---|
+| [**ShopCrew**](https://github.com/DevinSH436/ShopCrew) | Four CrewAI agents (Review Analyst, Price Tracker, SEO Writer, Marketer) running inside a full FastAPI e-commerce store with a seller admin panel | Python · CrewAI · FastAPI · SQLite · Ollama · Claude · Streamlit · Docker | Never let the LLM do arithmetic: compute numbers in tools and enforce them with guardrails; Pydantic structured outputs with retry-on-invalid; sequential vs hierarchical multi-agent orchestration; a fake LLM that speaks CrewAI's protocol so CI tests the whole crew |
+| [**Grimoire**](https://github.com/DevinSH436/grimoire) | AniList-style tracker for anime, manga, manhwa & light novels: live AniList catalog, AI note summaries, MCP server | FastAPI · React · TypeScript · SQLite · Ollama · MCP | Building an MCP server (tools, resources, schemas) so AI assistants can query and update my library; running local LLMs with Ollama; prompting for consistent, short summaries |
+| [**FaceBio**](https://github.com/DevinSH436/FaceBio) | Face-recognition attendance system with a chatbot for querying attendance | Python · OpenCV · face_recognition · Streamlit · LangChain · Ollama | LangChain tool-calling to answer plain-English questions from real attendance data; keeping a local LLM grounded so it doesn't make things up; face embeddings and match thresholds |
+| [**AI Quant Trading Platform**](https://github.com/DevinSH436/stock_ai_project) | ML signals, backtesting and paper trading | Python · scikit-learn · Flask · PostgreSQL | Feature engineering on time-series data; avoiding data leakage and look-ahead bias; walk-forward validation instead of a random train/test split |
+| [**Minesweeper Logic & Probability Agent**](https://github.com/DevinSH436/minesweeper-logic-probability-agent) | AI agent that proves safe moves with propositional logic and picks the safest guess with exact probabilities, plus an interactive website | Python · JavaScript | Knowledge bases and entailment by model checking; exact probabilistic inference for decisions under uncertainty; running a fair 3,000-game experiment with confidence intervals and paired tests |
 
 ---
 
